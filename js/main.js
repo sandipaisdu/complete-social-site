@@ -1,5 +1,3 @@
-$(document).ready(function(){
-					$('#nav').slicknav();
-					
-					
-				});
+    function _(x){
+        return document.getElementById(x);
+    }

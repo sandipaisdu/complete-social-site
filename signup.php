@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Forum</title>
+    <title>SIgn Up</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -33,15 +33,6 @@
         <![endif]-->
 
 
-<?php include_once("templates/header.php");?>
-     <div id="page_middle">
-         <div class="container">
-             <div class="row">
-                 
-             </div>
-         </div>
-     </div>
-<?php include_once("templates/footer.php");?>
 
 
 
